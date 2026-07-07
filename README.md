@@ -17,5 +17,5 @@ hides data inside an image.
 `Kotlin` · `C` · `Assembly` · `Python` · `JavaScript` · `HTML/CSS`
 
 ### Find me
-- Website: https://encrize.vip
+- My Website: https://encrize.vip
 - Github alt: https://github.com/wired-asm
